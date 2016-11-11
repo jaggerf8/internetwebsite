@@ -33,6 +33,7 @@ ul {
 #header {
   background-color:red;
   height: 70px;
+  width: 250px;
   line-height: 70px;
 }
 #menu {
