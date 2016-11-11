@@ -10,7 +10,7 @@ ul {
 	position:fixed;
 	left:0;
 	top:0;
-
+}
 #wrapper {
   width: 960px;
   margin-left: auto;
@@ -18,7 +18,7 @@ ul {
 }
 #banner {
   clear: both;
-  background-image: url("../img/background.jpg");
+  background-image: url("background.jpg");
   height: 404px;
   background-size: cover;
   width: 960px;
