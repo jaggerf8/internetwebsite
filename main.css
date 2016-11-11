@@ -2,8 +2,8 @@ li {
      display:inline;
    }
 ul {
-     margin: 5px;
-     padding: 5px;
+     margin: 0px;
+     padding: 0px;
 }
 
 #logo {
@@ -43,6 +43,7 @@ ul {
 }
 #menu a {
   color: white;
+  font-size: 150%;
 }
 
 #logo {
