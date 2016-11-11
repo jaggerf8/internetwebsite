@@ -47,7 +47,7 @@ ul {
 
 #logo {
   background-color: green;
-  width: 367px;
+  size: 50%;
   float: left;
 }
 #logo h1 {
