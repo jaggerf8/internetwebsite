@@ -26,6 +26,7 @@ ul {
   background-size: cover;
   width: 960px;
   background-repeat: no-repeat;
+  font-size: 100%;
 }
 #banner h1 {
   text-align:center;
