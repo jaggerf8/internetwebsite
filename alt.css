@@ -32,10 +32,13 @@ ul {
   line-height: 70px;
 }
 #menu {
-  background-color:blue;
-  width: 593px;
+  position:fixed;
+  background-color:black;
+  width: 200px;
   float: right;
-
+  top:0;
+  right:0;
+  padding:0px;
 }
 
 #menu {
