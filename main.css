@@ -7,12 +7,12 @@ ul {
 }
 
 #logo {
-	background-image: url("logo.png");
+	background-image: url("logo.PNG");
 	background-repeat: no-repeat;
 	position:fixed;
 	left:0;
 	top:0;
-}
+}	
 #wrapper {
   width: 960px;
   margin-left: auto;
@@ -51,7 +51,6 @@ ul {
   float: left;
 }
 #logo h1 {
-'HISTORY OF THE INTERNET';
  padding: 0px;
   margin: 0px;
 }
