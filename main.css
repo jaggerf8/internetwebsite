@@ -20,13 +20,13 @@ ul {
   margin-right: auto;
 }
 #banner {
-  color: white;
   clear: both;
   background-image: url("background.jpg");
   height: 404px;
   background-size: cover;
   width: 960px;
   background-repeat: no-repeat;
+  color: white;
 }
 #banner h1 {
   text-align:center;
