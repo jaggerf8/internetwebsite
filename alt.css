@@ -1,0 +1,71 @@
+li {
+     display:inline;
+   }
+ul {
+     margin: 0px;
+     padding: 0px;
+}
+
+#logo {
+	clear: both;
+	background-image: url("logo.PNG");
+	background-repeat: no-repeat;
+	position:fixed;
+	left:0;
+	top:0;
+}	
+#wrapper {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#banner h1 {
+  text-align:center;
+  margin: 0px;
+  padding: 0px;
+}
+#header {
+  text-align:center;
+  background-color: black;
+  height: 70px;
+  line-height: 70px;
+}
+#menu {
+  background-color:blue;
+  width: 593px;
+  float: right;
+
+}
+
+#menu {
+border-left: 1px solid black;
+height: 100%;
+}
+
+#menu a {
+  color: white;
+  font-size: 150%;
+}
+
+#logo {
+  size: 50%;
+  float: left;
+}
+#logo h1 {
+ padding: 0px;
+  margin: 0px;
+}
+#feature1, #feature2, #feature3 {
+  float: left;
+  width: 320px;
+
+}
+#banner img {
+  width: 100%;
+}
+#footer {
+  background-color: orange;
+  clear: both;
+}
+
