@@ -20,6 +20,7 @@ ul {
   margin-right: auto;
 }
 #banner {
+  color: white;
   clear: both;
   background-image: url("background.jpg");
   height: 404px;
