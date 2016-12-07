@@ -28,6 +28,8 @@ ul {
   width: 960px;
   background-repeat: no-repeat;
   color: white;
+  font-size: 25px;
+  line-height: 35px;
 }
 #banner h1 {
   text-align:center;
